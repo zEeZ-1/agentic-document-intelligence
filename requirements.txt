@@ -1,0 +1,9 @@
+langchain
+langgraph
+deepagents
+pydantic
+python-dotenv
+langsmith
+Pillow
+python-docx
+PyPDF2
