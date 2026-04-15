@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# Large files (example files)
+example.docx
+example.pdf
+example2.docx
+example2.pdf
+note'.pdf
+notes2026.pdf
+
+# Extracted blocks
+extracted_blocks/
